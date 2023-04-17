@@ -5,6 +5,7 @@
 
 <h2 align="left">About:</h2>
 <p>
+  
 - Full-Stack Web Developer graduate from Le Wagon, with previous self-taught experience in Python and Bash.
   
 - Skilled in tackling complex problems with creativity and innovation, with a strong attention to detail.
@@ -13,8 +14,9 @@
   
 - Competent in Linux systems administration, including installation, configuration and troubleshooting of various distributions.
 </p>
-
+<hr>
 <p>
+  
 - 🛠 I’m currently working on **A database tool for a PhD candidate in Art History**
 
 - 📚 I’m currently learning **RSpec and web hosting**
