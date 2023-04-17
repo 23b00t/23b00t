@@ -4,11 +4,12 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=23b00t" alt="23b00t" /></a> </p>
 
 <h2 align="left">About:</h2>
+<p>
 - Full-Stack Web Developer graduate from Le Wagon, with previous self-taught experience in Python and Bash.
 - Skilled in tackling complex problems with creativity and innovation, with a strong attention to detail.
 - Proficient in Ruby, Ruby on Rails, SQL, JavaScript, Stimulus, HTML, CSS, Git, and more; experienced in writing clean, readable and idiomatic Ruby code.
 - Competent in Linux systems administration, including installation, configuration and troubleshooting of various distributions.
-
+</p>
 🛠 I’m currently working on **A database tool for a PhD candidate in Art History**
 
 📚 I’m currently learning **RSpec and web hosting**
