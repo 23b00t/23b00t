@@ -3,17 +3,23 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=23b00t" alt="23b00t" /></a> </p>
 
-- 🛠 I’m currently working on **A database tool for a PhD candidate in Art History**
+<h2 align="left">About:</h2>
+- Full-Stack Web Developer graduate from Le Wagon, with previous self-taught experience in Python and Bash.
+- Skilled in tackling complex problems with creativity and innovation, with a strong attention to detail.
+- Proficient in Ruby, Ruby on Rails, SQL, JavaScript, Stimulus, HTML, CSS, Git, and more; experienced in writing clean, readable and idiomatic Ruby code.
+- Competent in Linux systems administration, including installation, configuration and troubleshooting of various distributions.
 
-- 📚 I’m currently learning **RSpec and web hosting**
+🛠 I’m currently working on **A database tool for a PhD candidate in Art History**
 
-- 🛠 I have recently worked on [yook - your personal cookbook](https://www.y00k.me) - [Repo](https://github.com/23b00t/yook)
+📚 I’m currently learning **RSpec and web hosting**
 
-- 🗨 Ask me about **Ruby**
+🛠 I have recently worked on [yook - your personal cookbook](https://www.y00k.me) - [Repo](https://github.com/23b00t/yook)
 
-- 📫 How to reach me **daniel.kipp@gmail.com**
+🗨 Ask me about **Ruby**
 
-- ⚡ Fun fact **I was born on The Aftermath 1st in the YOLD 3152**
+📫 How to reach me **daniel.kipp@gmail.com**
+
+⚡ Fun fact **I was born on The Aftermath 1st in the YOLD 3152**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
