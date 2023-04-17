@@ -10,6 +10,8 @@
 - Proficient in Ruby, Ruby on Rails, SQL, JavaScript, Stimulus, HTML, CSS, Git, and more; experienced in writing clean, readable and idiomatic Ruby code.
 - Competent in Linux systems administration, including installation, configuration and troubleshooting of various distributions.
 </p>
+
+<p>
 🛠 I’m currently working on **A database tool for a PhD candidate in Art History**
 
 📚 I’m currently learning **RSpec and web hosting**
@@ -21,6 +23,7 @@
 📫 How to reach me **daniel.kipp@gmail.com**
 
 ⚡ Fun fact **I was born on The Aftermath 1st in the YOLD 3152**
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
