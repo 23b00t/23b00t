@@ -17,11 +17,11 @@
 <hr>
 <p>
   
-- 🛠 I’m currently working on **A database tool for a PhD candidate in Art History**
+- 🛠 I’m currently working on **A database tool for a PhD candidate in Art History** [Repo](https://github.com/23b00t/EasyArtDB)
 
-- 📚 I’m currently learning **RSpec and web hosting**
+- 📚 I’m currently learning **Building a Ruby gem** [Repo](https://github.com/23b00t/esolang) [gem](https://rubygems.org/gems/esolang)
 
-- 🛠 I have recently worked on [yook - your personal cookbook](https://www.y00k.me) - [Repo](https://github.com/23b00t/yook)
+- 🛠 I have recently worked on [yook - your personal cookbook](https://github.com/23b00t/yook)
 
 - 🗨 Ask me about **Ruby**
 
