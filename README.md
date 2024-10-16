@@ -7,6 +7,8 @@
 <p>
   
 - Full-Stack Web Developer graduate from Le Wagon, with previous self-taught experience in Python and Bash.
+
+- Currently retraining to become an IT specialist for application development.
   
 - Skilled in tackling complex problems with creativity and innovation, with a strong attention to detail.
   
@@ -16,14 +18,6 @@
 </p>
 <hr>
 <p>
-  
-- 🛠 I’m currently working on **A database tool for a PhD candidate in Art History** [Repo](https://github.com/23b00t/EasyArtDB)
-
-- 📚 I’m currently learning **Building a Ruby gem** [Repo](https://github.com/23b00t/esolang) [gem](https://rubygems.org/gems/esolang)
-
-- 🛠 I have recently worked on [yook - your personal cookbook](https://github.com/23b00t/yook)
-
-- 🗨 Ask me about **Ruby**
 
 - 📫 How to reach me **daniel.kipp@gmail.com**
 
